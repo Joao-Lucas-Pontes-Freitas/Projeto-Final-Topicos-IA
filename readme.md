@@ -57,7 +57,7 @@ VAE_Cartoon/
 ### 5. Treinar o modelo
 
 * No notebook, ajuste `DATA_DIR` para o caminho correto do `cartoonset10k`.
-* Execute as células em ordem.
+* Execute o notebook.
 * Pesos são salvos em `tf_vae/cartoon/training_weights/`.
 * Imagens geradas são salvas em `tf_vae/cartoon/images/`.
 
