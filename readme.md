@@ -68,7 +68,7 @@ VAE_Cartoon/
 * **t-SNE** do espaço latente.
 * **Reconstruções** e **amostras** do gerador.
 
-### 7. Referências
-* Link para o artigo de referência: [teste](https://learnopencv.com/variational-autoencoder-in-tensorflow)
-* Link para o github de referência: [teste](https://github.com/spmallick/learnopencv/tree/master/Variational-Autoencoder-TensorFlow)
+## Referências
+* Link para o artigo de referência: [learnopencv](https://learnopencv.com/variational-autoencoder-in-tensorflow)
+* Link para o github de referência: [github](https://github.com/spmallick/learnopencv/tree/master/Variational-Autoencoder-TensorFlow)
 ---
