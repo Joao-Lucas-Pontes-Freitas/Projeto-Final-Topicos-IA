@@ -1,4 +1,3 @@
-````md
 # Variational Autoencoder for Cartoon Dataset
 
 ## Dataset
@@ -70,5 +69,3 @@ VAE_Cartoon/
 * **Reconstruções** e **amostras** do gerador.
 
 ---
-
-```
