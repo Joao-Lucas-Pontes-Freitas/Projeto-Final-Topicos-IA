@@ -1,7 +1,7 @@
 # Variational Autoencoder for Cartoon Dataset
 
 ## Dataset
-- 10 000 imagens de rostos de desenhos animados.
+- 10k imagens de rostos de desenhos animados.
 - Baixe em: [https://google.github.io/cartoonset/download.html](https://google.github.io/cartoonset/download.html)
 - Após baixar, extraia as imagens para uma pasta `cartoonset10k/`.
 
@@ -13,8 +13,8 @@
 
 ### 1. Clonar repositório
 ```bash
-git clone <URL_DO_REPO>
-cd <PASTA_DO_REPO>
+git clone https://github.com/Joao-Lucas-Pontes-Freitas/Projeto-Final-Topicos-IA
+cd Projeto-Final-Topicos-IA
 ```
 
 ### 2. Criar e ativar ambiente virtual
