@@ -15,7 +15,7 @@
 ```bash
 git clone <URL_DO_REPO>
 cd <PASTA_DO_REPO>
-````
+```
 
 ### 2. Criar e ativar ambiente virtual
 
