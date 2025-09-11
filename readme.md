@@ -74,7 +74,7 @@ VAE_Cartoon/
 
 ## Referências
 
-- Link para o artigo de referência: [learnopencv](https://learnopencv.com/variational-autoencoder-in-tensorflow)
-- Link para o github de referência: [github](https://github.com/spmallick/learnopencv/tree/master/Variational-Autoencoder-TensorFlow)
+- Link para o artigo de referência: [learnopencv](https://learnopencv.com/autoencoder-in-tensorflow-2-beginners-guide/)
+- Link para o github de referência: [github](https://github.com/spmallick/learnopencv/tree/master/Autoencoder-in-TensorFlow)
 
 ---
