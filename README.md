@@ -1,4 +1,4 @@
-z# Variational Autoencoder for Cartoon Dataset
+# Variational Autoencoder for Cartoon Dataset
 
 ## Dataset
 - 10k imagens de rostos de desenhos animados.
