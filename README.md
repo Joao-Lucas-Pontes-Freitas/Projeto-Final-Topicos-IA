@@ -4,7 +4,7 @@
 
 - 10k imagens de rostos de desenhos animados.
 - Baixe em: [https://google.github.io/cartoonset/download.html](https://google.github.io/cartoonset/download.html)
-- Após baixar, extraia as imagens para uma pasta `cartoonset10k/`.
+- Após baixar, extraia as imagens para uma pasta `cartoonset10k/` dentro da pasta do projeto.
 
 ## Ambiente
 
