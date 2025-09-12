@@ -1,4 +1,4 @@
-# Variational Autoencoder for Cartoon Dataset
+z# Variational Autoencoder for Cartoon Dataset
 
 ## Dataset
 - 10k imagens de rostos de desenhos animados.
@@ -7,7 +7,7 @@
 
 ## Ambiente
 - Python 3.11.7
-- Dependências listadas em `requirements.txt`.
+- Dependências listadas em `pyproject.toml`
 
 ## Instruções de uso
 
@@ -22,22 +22,21 @@ cd Projeto-Final-Topicos-IA
 #### Windows (PowerShell)
 
 ```powershell
-python -m venv .venv
-.venv\Scripts\Activate
+powershell -ExecutionPolicy ByPass -c "irm https://astral.sh/uv/install.ps1 | iex"
+uv venv --python 3.11.7
 ```
 
 #### Linux / macOS
 
 ```bash
-python3 -m venv .venv
-source .venv/bin/activate
+curl -LsSf https://astral.sh/uv/install.sh | sh
+uv venv --python 3.11.7
 ```
 
 ### 3. Instalar dependências
 
 ```bash
-pip install --upgrade pip
-pip install -r requirements.txt
+uv sync
 ```
 
 ### 4. Organizar dados
