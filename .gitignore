@@ -1,5 +1,5 @@
 *.zip
 *.venv
-tf_vae/
+tf_*/
 apresentacao/
 cartoonset10k/
