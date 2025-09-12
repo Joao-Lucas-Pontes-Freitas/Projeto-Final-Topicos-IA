@@ -1,17 +1,20 @@
 # Variational Autoencoder for Cartoon Dataset
 
 ## Dataset
+
 - 10k imagens de rostos de desenhos animados.
 - Baixe em: [https://google.github.io/cartoonset/download.html](https://google.github.io/cartoonset/download.html)
 - Após baixar, extraia as imagens para uma pasta `cartoonset10k/`.
 
 ## Ambiente
-- Python 3.11.7
+
+- Python 3.11.7+
 - Dependências listadas em `pyproject.toml`
 
 ## Instruções de uso
 
 ### 1. Clonar repositório
+
 ```bash
 git clone https://github.com/Joao-Lucas-Pontes-Freitas/Projeto-Final-Topicos-IA
 cd Projeto-Final-Topicos-IA
@@ -55,19 +58,20 @@ VAE_Cartoon/
 
 ### 5. Treinar o modelo
 
-* No notebook, ajuste `DATA_DIR` para o caminho correto do `cartoonset10k`.
-* Execute o notebook.
-* Pesos são salvos em `tf_vae/cartoon/training_weights/`.
-* Imagens geradas são salvas em `tf_vae/cartoon/images/`.
+- Execute o notebook.
+- Pesos são salvos em `tf_vae/cartoon/training_weights/`.
+- Imagens geradas são salvas em `tf_vae/cartoon/images/`.
 
 ### 6. Resultados
 
-* **Pesos do encoder/decoder** por época.
-* **Mosaicos de amostras** por época.
-* **t-SNE** do espaço latente.
-* **Reconstruções** e **amostras** do gerador.
+- **Pesos do encoder/decoder** por época.
+- **Mosaicos de amostras** por época.
+- **t-SNE** do espaço latente.
+- **Reconstruções** e **amostras** do gerador.
 
 ## Referências
-* Link para o artigo de referência: [learnopencv](https://learnopencv.com/variational-autoencoder-in-tensorflow)
-* Link para o github de referência: [github](https://github.com/spmallick/learnopencv/tree/master/Variational-Autoencoder-TensorFlow)
+
+- Link para o artigo de referência: [learnopencv](https://learnopencv.com/variational-autoencoder-in-tensorflow)
+- Link para o github de referência: [github](https://github.com/spmallick/learnopencv/tree/master/Variational-Autoencoder-TensorFlow)
+
 ---
